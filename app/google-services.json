@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "638912793560",
+    "firebase_url": "https://trial-36467.firebaseio.com",
+    "project_id": "trial-36467",
+    "storage_bucket": "trial-36467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638912793560:android:1c08249314da85cb",
+        "android_client_info": {
+          "package_name": "contact.rizki.com.samplecontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638912793560-6bio19977r788ml17c12j8ullk1mic2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOAooQJxNjLhfbMx5b_V5STCeRRl6mt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
